@@ -1,6 +1,6 @@
 # -Defra-content-patterns-and-style-guide
 
-In edit mode (the pencil icon), use this mark-up to structure the content:
+In edit mode (the pencil icon), choose edit this file and use this mark-up to structure the content:
 
 # -this is a heading: 
 Use # for this heading
