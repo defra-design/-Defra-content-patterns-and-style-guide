@@ -11,7 +11,7 @@ Use ## for this heading
 
 These are linked sections. Use # to create the link? 
 
-[A](#A section) - [B](#B) - [C](#C) -[D](#D) - [E](#E) - [F](#F) - [G](#G) - [H](#H) - [I](#I) - [J](#J) - [K](#K) - [L](#L) - [M](#M) - [N](#N) - [O](#O) - [P](#P) - [Q](#Q) - [R](#R) - [S](#S) - [T](#T) - [U](#U) - [V](#V) - [W](#W) - [X](#X) - [Y](#Y) - [Z](#Z) - [0-9](#0-9)
+[A](#A) - [B](#B) - [C](#C) -[D](#D) - [E](#E) - [F](#F) - [G](#G) - [H](#H) - [I](#I) - [J](#J) - [K](#K) - [L](#L) - [M](#M) - [N](#N) - [O](#O) - [P](#P) - [Q](#Q) - [R](#R) - [S](#S) - [T](#T) - [U](#U) - [V](#V) - [W](#W) - [X](#X) - [Y](#Y) - [Z](#Z) - [0-9](#0-9)
 
 ## This is a section - could be an alpha list if we follow that structure<a name="A section"></a>
 
@@ -22,3 +22,5 @@ Use ** for this style heading
 
 This is body text, where we can define a style guide rule.
 Just type/paste from a source document - no code needed.
+
+## B<a name="B"></a>
