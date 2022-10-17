@@ -20,6 +20,7 @@ This is a section - could be an alpha list if we follow that structure.
 Use ## for this heading and put the name of the section in this code: <a name="A section"></a>
 
 **This is a sub-head within a section** 
+
 Use ** for this style heading 
 
 This is body text, where we can define a style guide rule.
