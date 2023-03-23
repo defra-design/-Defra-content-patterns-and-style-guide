@@ -5,6 +5,9 @@ In edit mode (the pencil icon), choose edit this file and use this mark-up to st
 # -this is a heading: 
 Use # for this heading
 
+# -this is a heading: 
+Use # for this heading
+
 ## this is a sub-heading
 
 Use ## for this heading
